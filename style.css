@@ -1,0 +1,19 @@
+.main{
+    max-width: 600px;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    font-family: proxima-nova, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+strong{
+    color: #ff6600;
+}
+
+.bcg{
+    width:32px;
+    height:auto;
+}
